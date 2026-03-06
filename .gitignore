@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+vir/
+venv/
+env/
+
+.env
+
+# Vector DB
+vector_db/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
