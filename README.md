@@ -1,4 +1,5 @@
-🕉️ Bhagavad Gita AI Guide
+                                       🕉️ Bhagavad Gita AI Guide
+
 Bhagavad Gita AI Guide is an AI-powered spiritual guidance application that provides answers to life questions using the wisdom of the Bhagavad Gita.
 
 The system uses Retrieval-Augmented Generation (RAG) to retrieve relevant verses from the Bhagavad Gita and generate responses in the style of Lord Krishna guiding a sincere devotee, similar to how Krishna advised Arjuna.
@@ -81,6 +82,11 @@ sentence-transformers
 huggingface-hub
 pypdf
 python-dotenv
+
+
+
+
+
 💡 Example Questions
 You can ask questions like:
 
