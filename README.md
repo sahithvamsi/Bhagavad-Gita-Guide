@@ -63,11 +63,14 @@ Bhagavad-Gita-AI-Guide
 1️⃣ Clone the repository
 git clone https://github.com/yourusername/bhagavad-gita-ai-guide.git
 cd bhagavad-gita-ai-guide
+
 2️⃣ Install dependencies
 pip install -r requirements.txt
+
 3️⃣ Create .env file
 GROQ_API_KEY=your_api_key_here
 ⚠️ Do not upload .env to GitHub.
+
 
 4️⃣ Run the application
 streamlit run main.py
